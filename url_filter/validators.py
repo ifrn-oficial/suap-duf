@@ -9,7 +9,7 @@ from django.utils.deconstruct import deconstructible
 try:
     from django.utils.translation import ungettext_lazy
 except ImportError:
-    from django.utils.translation import ngettext_lazy
+    from django.utils.translation import ngettext_lazy as ungettext_lazy
 
 
 @deconstructible
