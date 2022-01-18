@@ -3,6 +3,12 @@
 History
 -------
 
+0.3.15 (2022-02-17)
+~~~~~~~~~~~~~~~~~~~
+
+* Add support to django 4.
+  See `https://docs.djangoproject.com/en/4.0/releases/4.0/#features-removed-in-4-0 <https://docs.djangoproject.com/en/4.0/releases/4.0/#features-removed-in-4-0>`_.
+
 0.3.15 (2020-02-10)
 ~~~~~~~~~~~~~~~~~~~
 

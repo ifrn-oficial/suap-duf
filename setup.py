@@ -25,7 +25,7 @@ requirements = req + ["setuptools"]
 test_requirements = req + dev_req
 
 setup(
-    name="django-url-filter",
+    name="suap-duf",
     version=__version__,
     author=__author__,
     description="Django URL Filter provides a safe way to filter data via human-friendly URLs.",
@@ -44,7 +44,7 @@ setup(
         "Programming Language :: Python",
         "Programming Language :: Python :: 2.7",
         "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.4",
+        "Programming Language :: Python :: 3.10",
         "Development Status :: 2 - Pre-Alpha",
     ],
 )
